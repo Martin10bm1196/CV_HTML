@@ -161,7 +161,12 @@ body {
 }
 
 .grid_container .grid_container {
-  grid-template: 'img ' auto 'date '    auto 'leng'    auto 'game'    auto 'footer ' 60px/ 100%;
+  grid-template: 'img ' auto
+ 'date '    auto
+ 'leng'    auto
+ 'game'    auto
+ 'footer ' 60px/
+ 100%;
 }
 
 .img {
@@ -258,8 +263,8 @@ body {
     position: absolute;
     width: 70%;
     left: 20%;
-    line-height: 36px;
-    top: 580.3px;
+    line-height: 30px;
+    top: 590.3px;
   }
   .personalInfo__title {
     font-size: 15px;
